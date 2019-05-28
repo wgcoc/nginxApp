@@ -1,3 +1,5 @@
+//参考网址：https://blog.csdn.net/zhangge3663/article/details/87716963
+
 #include <ngx_config.h>
 #include <ngx_core.h>
 #include <ngx_http.h>
